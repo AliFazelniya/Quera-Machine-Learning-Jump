@@ -1,0 +1,11 @@
+# Practice 1
+
+Practice task materials for Practices.
+
+## Subfolders
+
+- `bank_marketing` — Submodule.
+
+## Usage
+
+Review the notebooks and data in this folder to follow the module workflow.
