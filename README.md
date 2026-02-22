@@ -5,7 +5,7 @@ This repository contains the hands-on materials for the Quera Institute **Advanc
 Official course page:
 https://quera.org/college/landpage/9516/advanced-machine-learning
 
-![Machine Learning Poster](poster.png)
+![Machine Learning Poster](poster.png) ![Machine Learning Poster](logo-quera.svg)
 
 ## Course Overview
 
