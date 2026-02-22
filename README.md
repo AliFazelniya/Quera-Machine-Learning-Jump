@@ -6,7 +6,7 @@ Official course page:
 https://quera.org/college/landpage/9516/advanced-machine-learning
 
 <p align="center">
-  <img src="poster.png" width="100%" />
+  <img src="poster.jpg" width="100%" />
 </p>
 
 ## Course Overview
