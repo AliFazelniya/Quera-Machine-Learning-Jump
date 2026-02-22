@@ -1,11 +1,11 @@
 # Sampling with NearMiss
 
-Module folder for Sampling with NearMiss.
+Module folder related to Sampling with NearMiss.
 
 ## Files
 
-- `NearMiss.ipynb` — Jupyter notebook.
+- `NearMiss.ipynb` — Undersampling with NearMiss for imbalanced classification.
 
-## Usage
+## How to Use
 
-Open notebooks with Jupyter or JupyterLab and run the cells in order.
+Open the notebooks and run cells in order. Ensure the `data` folder is present and matches expected filenames.

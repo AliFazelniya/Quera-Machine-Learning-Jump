@@ -1,11 +1,11 @@
 # Cross Validation
 
-Topic module: Cross Validation.
+Module folder related to Cross Validation.
 
 ## Files
 
-- `cross_validation.ipynb` — Jupyter notebook.
+- `cross_validation.ipynb` — Implements cross-validation strategies for more reliable model evaluation.
 
-## Usage
+## How to Use
 
-Open notebooks with Jupyter or JupyterLab and run the cells in order.
+Open the notebooks and run cells in order. Ensure the `data` folder is present and matches expected filenames.

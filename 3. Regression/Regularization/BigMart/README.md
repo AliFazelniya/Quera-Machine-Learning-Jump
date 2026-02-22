@@ -1,11 +1,11 @@
 # BigMart
 
-Module folder for BigMart.
+Module folder related to BigMart.
 
 ## Files
 
-- `BigMartTrain.csv` — CSV dataset.
+- `BigMartTrain.csv` — Retail sales dataset for regression practice.
 
-## Usage
+## How to Use
 
-Review the notebooks and data in this folder to follow the module workflow.
+Use the notebooks and data in subfolders to complete this module.

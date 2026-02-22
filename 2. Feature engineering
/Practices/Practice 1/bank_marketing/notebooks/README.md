@@ -1,20 +1,20 @@
 # notebooks
 
-Jupyter notebooks for analysis, modeling, and reporting in this module.
+Notebooks that contain step-by-step analysis, modeling, and results.
 
 ## Files
 
-- `bank_marketing.ipynb` — Jupyter notebook.
-- `binary_cols` — File.
-- `binary_df.csv` — CSV dataset.
-- `categorical_cols` — File.
-- `continuous_cols` — File.
-- `df.csv` — CSV dataset.
-- `nominal_cols` — File.
-- `nominal_df.csv` — CSV dataset.
-- `ordinal_cols` — File.
-- `ordinal_df.csv` — CSV dataset.
+- `bank_marketing.ipynb` — Models bank marketing campaign responses and evaluates uplift.
+- `binary_cols` — File used by this module.
+- `binary_df.csv` — CSV dataset used by notebooks in this folder.
+- `categorical_cols` — File used by this module.
+- `continuous_cols` — File used by this module.
+- `df.csv` — CSV dataset used by notebooks in this folder.
+- `nominal_cols` — File used by this module.
+- `nominal_df.csv` — CSV dataset used by notebooks in this folder.
+- `ordinal_cols` — File used by this module.
+- `ordinal_df.csv` — CSV dataset used by notebooks in this folder.
 
-## Usage
+## How to Use
 
-Open notebooks with Jupyter or JupyterLab and run the cells in order.
+Open the notebooks and run cells in order. Ensure the `data` folder is present and matches expected filenames.

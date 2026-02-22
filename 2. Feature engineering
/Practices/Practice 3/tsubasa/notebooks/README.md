@@ -1,13 +1,13 @@
 # notebooks
 
-Jupyter notebooks for analysis, modeling, and reporting in this module.
+Notebooks that contain step-by-step analysis, modeling, and results.
 
 ## Files
 
-- `df.csv` — CSV dataset.
-- `feature_importance.csv` — CSV dataset.
-- `tsubasa.ipynb` — Jupyter notebook.
+- `df.csv` — CSV dataset used by notebooks in this folder.
+- `feature_importance.csv` — CSV dataset used by notebooks in this folder.
+- `tsubasa.ipynb` — Feature selection practice with evaluation and ranking.
 
-## Usage
+## How to Use
 
-Open notebooks with Jupyter or JupyterLab and run the cells in order.
+Open the notebooks and run cells in order. Ensure the `data` folder is present and matches expected filenames.

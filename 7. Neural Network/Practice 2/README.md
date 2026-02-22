@@ -1,11 +1,11 @@
 # Practice 2
 
-Practice task materials for 7. Neural Network.
+A numbered hands-on practice with its own data and notebooks.
 
 ## Subfolders
 
 - `mnist` — Submodule.
 
-## Usage
+## How to Use
 
-Review the notebooks and data in this folder to follow the module workflow.
+Use the notebooks and data in subfolders to complete this module.

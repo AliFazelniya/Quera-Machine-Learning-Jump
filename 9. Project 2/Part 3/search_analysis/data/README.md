@@ -1,12 +1,12 @@
 # data
 
-Dataset files used by notebooks and practice tasks in this module.
+Datasets required by notebooks in the parent module.
 
 ## Files
 
-- `iran_cities.csv` — CSV dataset.
-- `mrbilit_search.json` — JSON data file.
+- `iran_cities.csv` — Reference list of Iranian cities for normalization and analysis.
+- `mrbilit_search.json` — User search logs for analysis and suggestion tasks.
 
-## Usage
+## How to Use
 
-Use these datasets as inputs to the notebooks or scripts in the parent module.
+These datasets are inputs for notebooks in the parent directory. Keep filenames unchanged so notebooks run without edits.

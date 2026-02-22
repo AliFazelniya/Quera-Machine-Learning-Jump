@@ -1,11 +1,11 @@
 # data
 
-Dataset files used by notebooks and practice tasks in this module.
+Datasets required by notebooks in the parent module.
 
 ## Files
 
-- `iris.csv` — CSV dataset.
+- `iris.csv` — Classic Iris dataset for multi-class classification.
 
-## Usage
+## How to Use
 
-Use these datasets as inputs to the notebooks or scripts in the parent module.
+These datasets are inputs for notebooks in the parent directory. Keep filenames unchanged so notebooks run without edits.

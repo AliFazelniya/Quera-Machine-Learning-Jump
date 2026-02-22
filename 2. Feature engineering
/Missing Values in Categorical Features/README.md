@@ -1,11 +1,11 @@
 # Missing Values in Categorical Features
 
-Feature engineering topic: Missing Values in Categorical Features.
+Module folder related to Missing Values in Categorical Features.
 
 ## Files
 
-- `categorical_missing_values.ipynb` — Jupyter notebook.
+- `categorical_missing_values.ipynb` — Handles missing categorical values with imputation/encoding strategies.
 
-## Usage
+## How to Use
 
-Open notebooks with Jupyter or JupyterLab and run the cells in order.
+Open the notebooks and run cells in order. Ensure the `data` folder is present and matches expected filenames.

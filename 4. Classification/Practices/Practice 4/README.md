@@ -1,11 +1,11 @@
 # Practice 4
 
-Practice task materials for Practices.
+A numbered hands-on practice with its own data and notebooks.
 
 ## Subfolders
 
 - `fraud_detection` — Submodule.
 
-## Usage
+## How to Use
 
-Review the notebooks and data in this folder to follow the module workflow.
+Use the notebooks and data in subfolders to complete this module.

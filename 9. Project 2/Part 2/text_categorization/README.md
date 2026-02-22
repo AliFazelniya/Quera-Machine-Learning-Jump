@@ -1,16 +1,16 @@
 # text_categorization
 
-Module folder for text_categorization.
+Module folder related to text_categorization.
 
 ## Subfolders
 
-- `data` — Datasets for this module.
-- `notebooks` — Notebooks and analyses.
+- `data` — Datasets and reference files.
+- `notebooks` — Jupyter notebooks for this module.
 
 ## Files
 
-- `stopwords.json` — JSON data file.
+- `stopwords.json` — JSON data file used by notebooks in this folder.
 
-## Usage
+## How to Use
 
-Open notebooks with Jupyter or JupyterLab and run the cells in order.
+Open the notebooks and run cells in order. Ensure the `data` folder is present and matches expected filenames.

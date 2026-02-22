@@ -1,12 +1,22 @@
 # 10. Learn more
 
-Module folder for 10. Learn more.
+Supplementary techniques to extend the course, including sampling strategies for imbalanced datasets.
+
+## Course Alignment
+
+This folder corresponds to the **Advanced Topics and Extensions** heading in the course.
+
+## Course Topics (from official syllabus)
+
+- NearMiss undersampling
+- SMOTE oversampling
+- Regression trees
 
 ## Subfolders
 
 - `Sampling with NearMiss` — Submodule.
 - `Upsampling with SMOTE` — Submodule.
 
-## Usage
+## How to Use
 
-Review the notebooks and data in this folder to follow the module workflow.
+Use the notebooks and data in subfolders to complete this module.

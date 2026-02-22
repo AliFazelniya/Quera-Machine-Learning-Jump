@@ -1,12 +1,21 @@
 # 6. Project 1
 
-Project work organized by parts and datasets.
+A two-part applied project with end-to-end workflows: data ingestion, modeling, evaluation, and submission files.
+
+## Course Alignment
+
+This folder corresponds to the **Applied Project 1** heading in the course.
+
+## Course Topics (from official syllabus)
+
+- Recreational (tafrihi) prediction task
+- Cancellation (canceli) prediction task
 
 ## Subfolders
 
-- `Part 1` — Project part.
-- `Part 2` — Project part.
+- `Part 1` — Project part with its own notebooks and data.
+- `Part 2` — Project part with its own notebooks and data.
 
-## Usage
+## How to Use
 
-Review the notebooks and data in this folder to follow the module workflow.
+Use the notebooks and data in subfolders to complete this module.

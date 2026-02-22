@@ -1,12 +1,12 @@
 # data
 
-Dataset files used by notebooks and practice tasks in this module.
+Datasets required by notebooks in the parent module.
 
 ## Files
 
-- `bank_customers_test.csv` — CSV dataset.
-- `bank_customers_train.csv` — CSV dataset.
+- `bank_customers_test.csv` — CSV dataset used by notebooks in this folder.
+- `bank_customers_train.csv` — CSV dataset used by notebooks in this folder.
 
-## Usage
+## How to Use
 
-Use these datasets as inputs to the notebooks or scripts in the parent module.
+These datasets are inputs for notebooks in the parent directory. Keep filenames unchanged so notebooks run without edits.

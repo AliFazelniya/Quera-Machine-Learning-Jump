@@ -1,11 +1,11 @@
 # Linear  Regression
 
-Topic module: Linear  Regression.
+Module folder related to Linear  Regression.
 
 ## Files
 
-- `linear_regression.ipynb` — Jupyter notebook.
+- `linear_regression.ipynb` — Builds a baseline linear regression model, evaluates error metrics, and interprets coefficients.
 
-## Usage
+## How to Use
 
-Open notebooks with Jupyter or JupyterLab and run the cells in order.
+Open the notebooks and run cells in order. Ensure the `data` folder is present and matches expected filenames.

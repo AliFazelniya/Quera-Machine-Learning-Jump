@@ -1,11 +1,11 @@
 # gradient_boosting
 
-Module folder for gradient_boosting.
+Module folder related to gradient_boosting.
 
 ## Files
 
-- `main.ipynb` — Jupyter notebook.
+- `main.ipynb` — Notebook for Main.
 
-## Usage
+## How to Use
 
-Open notebooks with Jupyter or JupyterLab and run the cells in order.
+Open the notebooks and run cells in order. Ensure the `data` folder is present and matches expected filenames.

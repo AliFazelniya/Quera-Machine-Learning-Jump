@@ -1,11 +1,11 @@
 # Hyperparameters
 
-Topic module: Hyperparameters.
+Module folder related to Hyperparameters.
 
 ## Files
 
-- `hyperparameter_tuning.ipynb` — Jupyter notebook.
+- `hyperparameter_tuning.ipynb` — Covers grid/random search to optimize model hyperparameters and compare performance.
 
-## Usage
+## How to Use
 
-Open notebooks with Jupyter or JupyterLab and run the cells in order.
+Open the notebooks and run cells in order. Ensure the `data` folder is present and matches expected filenames.

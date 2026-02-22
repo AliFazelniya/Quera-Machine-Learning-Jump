@@ -1,11 +1,11 @@
 # Feature Selection
 
-Feature engineering topic: Feature Selection.
+Module folder related to Feature Selection.
 
 ## Subfolders
 
 - `feature_selection_2` — Submodule.
 
-## Usage
+## How to Use
 
-Review the notebooks and data in this folder to follow the module workflow.
+Use the notebooks and data in subfolders to complete this module.

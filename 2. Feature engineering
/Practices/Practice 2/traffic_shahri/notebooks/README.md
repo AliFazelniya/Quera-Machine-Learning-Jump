@@ -1,12 +1,12 @@
 # notebooks
 
-Jupyter notebooks for analysis, modeling, and reporting in this module.
+Notebooks that contain step-by-step analysis, modeling, and results.
 
 ## Files
 
-- `df.csv` — CSV dataset.
-- `traffic_shahri.ipynb` — Jupyter notebook.
+- `df.csv` — CSV dataset used by notebooks in this folder.
+- `traffic_shahri.ipynb` — Uses time/location features for city traffic modeling practice.
 
-## Usage
+## How to Use
 
-Open notebooks with Jupyter or JupyterLab and run the cells in order.
+Open the notebooks and run cells in order. Ensure the `data` folder is present and matches expected filenames.

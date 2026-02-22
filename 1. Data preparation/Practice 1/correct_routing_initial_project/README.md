@@ -1,13 +1,13 @@
 # correct_routing_initial_project
 
-Project work organized by parts and datasets.
+Module folder related to correct_routing_initial_project.
 
 ## Files
 
-- `correct_routing.ipynb` — Jupyter notebook.
-- `preprocessed_df.csv` — CSV dataset.
-- `travel_times.csv` — CSV dataset.
+- `correct_routing.ipynb` — Notebook for Correct Routing.
+- `preprocessed_df.csv` — Preprocessed dataframe used in routing notebook.
+- `travel_times.csv` — Travel time records for routing practice.
 
-## Usage
+## How to Use
 
-Open notebooks with Jupyter or JupyterLab and run the cells in order.
+Open the notebooks and run cells in order. Ensure the `data` folder is present and matches expected filenames.

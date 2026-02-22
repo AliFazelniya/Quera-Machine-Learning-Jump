@@ -1,11 +1,11 @@
 # Polynomial Regression
 
-Topic module: Polynomial Regression.
+Module folder related to Polynomial Regression.
 
 ## Files
 
-- `polynomial_regression.ipynb` — Jupyter notebook.
+- `polynomial_regression.ipynb` — Explores non-linear regression by increasing polynomial degree and analyzing bias/variance trade-offs.
 
-## Usage
+## How to Use
 
-Open notebooks with Jupyter or JupyterLab and run the cells in order.
+Open the notebooks and run cells in order. Ensure the `data` folder is present and matches expected filenames.

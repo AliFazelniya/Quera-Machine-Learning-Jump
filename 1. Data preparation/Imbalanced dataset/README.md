@@ -1,11 +1,11 @@
 # Imbalanced dataset
 
-Module folder for Imbalanced dataset.
+Module folder related to Imbalanced dataset.
 
 ## Files
 
-- `beijing_balance.ipynb` — Jupyter notebook.
+- `beijing_balance.ipynb` — Balances imbalanced classes and evaluates the impact on classification metrics.
 
-## Usage
+## How to Use
 
-Open notebooks with Jupyter or JupyterLab and run the cells in order.
+Open the notebooks and run cells in order. Ensure the `data` folder is present and matches expected filenames.

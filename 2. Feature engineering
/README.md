@@ -1,7 +1,7 @@
 # 2. Feature engineering
 
 
-Module folder for 2. Feature engineering
+Module folder related to 2. Feature engineering
 .
 
 ## Subfolders
@@ -13,8 +13,8 @@ Module folder for 2. Feature engineering
 - `Feature synthesis` — Submodule.
 - `Missing Values in Categorical Features` — Submodule.
 - `Pipe line` — Submodule.
-- `Practices` — Practice task materials.
+- `Practices` — Practice exercises grouped by task.
 
-## Usage
+## How to Use
 
-Review the notebooks and data in this folder to follow the module workflow.
+Use the notebooks and data in subfolders to complete this module.

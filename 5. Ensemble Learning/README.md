@@ -1,12 +1,24 @@
 # 5. Ensemble Learning
 
-Module folder for 5. Ensemble Learning.
+Applies model selection and regularization ideas through ensemble methods like Gradient Boosting and practical exercises.
+
+## Course Alignment
+
+This folder corresponds to the **Model Evaluation, Selection, and Regularization** heading in the course.
+
+## Course Topics (from official syllabus)
+
+- Random Forest
+- AdaBoost
+- Gradient Boosting
+- XGBoost
+- Stacking
 
 ## Subfolders
 
 - `Gradient Boosting Algorithm` — Submodule.
-- `Practices` — Practice task materials.
+- `Practices` — Practice exercises grouped by task.
 
-## Usage
+## How to Use
 
-Review the notebooks and data in this folder to follow the module workflow.
+Use the notebooks and data in subfolders to complete this module.

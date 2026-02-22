@@ -1,11 +1,11 @@
 # feature_selection_2
 
-Module folder for feature_selection_2.
+Module folder related to feature_selection_2.
 
 ## Files
 
-- `feature_selection.ipynb` — Jupyter notebook.
+- `feature_selection.ipynb` — Compares feature selection techniques to reduce dimensionality and improve generalization.
 
-## Usage
+## How to Use
 
-Open notebooks with Jupyter or JupyterLab and run the cells in order.
+Open the notebooks and run cells in order. Ensure the `data` folder is present and matches expected filenames.

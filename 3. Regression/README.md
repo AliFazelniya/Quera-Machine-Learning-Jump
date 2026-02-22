@@ -1,14 +1,28 @@
 # 3. Regression
 
-Module folder for 3. Regression.
+Introduces regression modeling from linear and polynomial methods to regularization and evaluation workflows.
+
+## Course Alignment
+
+This folder corresponds to the **Regression Techniques** heading in the course.
+
+## Course Topics (from official syllabus)
+
+- What a model is
+- Estimation, loss functions, and optimization
+- Linear regression
+- Model evaluation
+- Polynomial regression
+- Generalization
+- Regularization
 
 ## Subfolders
 
 - `Linear  Regression` — Submodule.
 - `Polynomial Regression` — Submodule.
-- `Practices` — Practice task materials.
+- `Practices` — Practice exercises grouped by task.
 - `Regularization` — Submodule.
 
-## Usage
+## How to Use
 
-Review the notebooks and data in this folder to follow the module workflow.
+Use the notebooks and data in subfolders to complete this module.

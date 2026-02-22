@@ -1,11 +1,11 @@
 # Gradient Boosting Algorithm
 
-Topic module: Gradient Boosting Algorithm.
+Module folder related to Gradient Boosting Algorithm.
 
 ## Subfolders
 
 - `gradient_boosting` — Submodule.
 
-## Usage
+## How to Use
 
-Review the notebooks and data in this folder to follow the module workflow.
+Use the notebooks and data in subfolders to complete this module.

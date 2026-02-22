@@ -1,12 +1,12 @@
 # data
 
-Dataset files used by notebooks and practice tasks in this module.
+Datasets required by notebooks in the parent module.
 
 ## Files
 
-- `test_data.csv` — CSV dataset.
-- `train_data.csv` — CSV dataset.
+- `test_data.csv` — Test dataset used for predictions and evaluation.
+- `train_data.csv` — Training dataset used for model fitting.
 
-## Usage
+## How to Use
 
-Use these datasets as inputs to the notebooks or scripts in the parent module.
+These datasets are inputs for notebooks in the parent directory. Keep filenames unchanged so notebooks run without edits.

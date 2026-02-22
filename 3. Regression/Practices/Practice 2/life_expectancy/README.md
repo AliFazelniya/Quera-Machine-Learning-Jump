@@ -1,12 +1,12 @@
 # life_expectancy
 
-Module folder for life_expectancy.
+Module folder related to life_expectancy.
 
 ## Subfolders
 
-- `data` — Datasets for this module.
-- `notebooks` — Notebooks and analyses.
+- `data` — Datasets and reference files.
+- `notebooks` — Jupyter notebooks for this module.
 
-## Usage
+## How to Use
 
-Open notebooks with Jupyter or JupyterLab and run the cells in order.
+Open the notebooks and run cells in order. Ensure the `data` folder is present and matches expected filenames.

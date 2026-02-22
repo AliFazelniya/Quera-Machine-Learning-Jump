@@ -1,12 +1,12 @@
 # data
 
-Dataset files used by notebooks and practice tasks in this module.
+Datasets required by notebooks in the parent module.
 
 ## Files
 
-- `yektanet_test.csv` — CSV dataset.
-- `yektanet_train.csv` — CSV dataset.
+- `yektanet_test.csv` — Text test set for NLP classification.
+- `yektanet_train.csv` — Text training set for NLP classification.
 
-## Usage
+## How to Use
 
-Use these datasets as inputs to the notebooks or scripts in the parent module.
+These datasets are inputs for notebooks in the parent directory. Keep filenames unchanged so notebooks run without edits.

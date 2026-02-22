@@ -1,18 +1,18 @@
 # notebook
 
-Jupyter notebooks for analysis, modeling, and reporting in this module.
+Notebooks that contain step-by-step analysis, modeling, and results.
 
 ## Files
 
-- `data_transport.csv` — CSV dataset.
-- `not_in_top.json` — JSON data file.
-- `percentages.json` — JSON data file.
-- `preprocessed_data.csv` — CSV dataset.
-- `result.zip` — Archive file.
-- `search_analysis.ipynb` — Jupyter notebook.
-- `top_cities.json` — JSON data file.
-- `top_provinces.json` — JSON data file.
+- `data_transport.csv` — Transport-related dataset used in analysis.
+- `not_in_top.json` — Derived list of items not in top results.
+- `percentages.json` — Derived percentage metrics from analysis.
+- `preprocessed_data.csv` — Preprocessed dataset ready for modeling.
+- `result.zip` — Compressed analysis results.
+- `search_analysis.ipynb` — Analyzes search logs to find trends, popular cities, and behavior patterns.
+- `top_cities.json` — Derived list of most frequent cities.
+- `top_provinces.json` — Derived list of most frequent provinces.
 
-## Usage
+## How to Use
 
-Open notebooks with Jupyter or JupyterLab and run the cells in order.
+Open the notebooks and run cells in order. Ensure the `data` folder is present and matches expected filenames.

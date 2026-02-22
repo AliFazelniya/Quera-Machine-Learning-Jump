@@ -1,11 +1,11 @@
 # Change the scale of the feature
 
-Feature engineering topic: Change the scale of the feature.
+Module folder related to Change the scale of the feature.
 
 ## Files
 
-- `beijing_scaling.ipynb` — Jupyter notebook.
+- `beijing_scaling.ipynb` — Compares normalization/standardization and their effect on learning algorithms.
 
-## Usage
+## How to Use
 
-Open notebooks with Jupyter or JupyterLab and run the cells in order.
+Open the notebooks and run cells in order. Ensure the `data` folder is present and matches expected filenames.

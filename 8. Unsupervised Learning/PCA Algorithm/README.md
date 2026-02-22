@@ -1,11 +1,11 @@
 # PCA Algorithm
 
-Topic module: PCA Algorithm.
+Module folder related to PCA Algorithm.
 
 ## Files
 
-- `pca.ipynb` — Jupyter notebook.
+- `pca.ipynb` — Applies PCA to reduce dimensionality and visualize variance explained by components.
 
-## Usage
+## How to Use
 
-Open notebooks with Jupyter or JupyterLab and run the cells in order.
+Open the notebooks and run cells in order. Ensure the `data` folder is present and matches expected filenames.

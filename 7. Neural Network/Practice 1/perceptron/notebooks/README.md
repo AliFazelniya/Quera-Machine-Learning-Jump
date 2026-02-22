@@ -1,19 +1,19 @@
 # notebooks
 
-Jupyter notebooks for analysis, modeling, and reporting in this module.
+Notebooks that contain step-by-step analysis, modeling, and results.
 
 ## Files
 
-- `Adaline.py` — Python helper script.
-- `Perceptron.py` — Python helper script.
-- `delta_rule.png` — Image asset.
-- `df1.csv` — CSV dataset.
-- `df2.csv` — CSV dataset.
-- `df3.csv` — CSV dataset.
-- `linearly_separable.json` — JSON data file.
-- `perceptron.ipynb` — Jupyter notebook.
-- `perceptron_rule.png` — Image asset.
+- `Adaline.py` — Adaline implementation used by the perceptron notebook.
+- `Perceptron.py` — Perceptron implementation used by the perceptron notebook.
+- `delta_rule.png` — Image asset produced or used by the notebook.
+- `df1.csv` — Simple dataset for perceptron/Adaline.
+- `df2.csv` — Simple dataset for perceptron/Adaline.
+- `df3.csv` — Simple dataset for perceptron/Adaline.
+- `linearly_separable.json` — Synthetic data for perceptron learning.
+- `perceptron.ipynb` — Implements Perceptron and Adaline learning, compares convergence behavior, and visualizes results.
+- `perceptron_rule.png` — Image asset produced or used by the notebook.
 
-## Usage
+## How to Use
 
-Open notebooks with Jupyter or JupyterLab and run the cells in order.
+Open the notebooks and run cells in order. Ensure the `data` folder is present and matches expected filenames.

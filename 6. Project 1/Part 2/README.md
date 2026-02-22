@@ -1,11 +1,11 @@
 # Part 2
 
-Part of the project with its own dataset and notebooks.
+A project part with its own dataset and deliverables.
 
 ## Subfolders
 
 - `canceli` — Submodule.
 
-## Usage
+## How to Use
 
-Review the notebooks and data in this folder to follow the module workflow.
+Use the notebooks and data in subfolders to complete this module.

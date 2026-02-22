@@ -1,11 +1,11 @@
 # Practice 1
 
-Practice task materials for 1. Data preparation.
+A numbered hands-on practice with its own data and notebooks.
 
 ## Subfolders
 
 - `correct_routing_initial_project` — Submodule.
 
-## Usage
+## How to Use
 
-Review the notebooks and data in this folder to follow the module workflow.
+Use the notebooks and data in subfolders to complete this module.
