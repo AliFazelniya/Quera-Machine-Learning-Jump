@@ -2,7 +2,7 @@
 
 Root of the Machine Learning Jump coursework repository, organized by topic, practices, and projects.
 
-![Student Performance Overview](poster.png)
+![Machine Learning Jump Overview](poster.png)
 
 ## Overview
 
