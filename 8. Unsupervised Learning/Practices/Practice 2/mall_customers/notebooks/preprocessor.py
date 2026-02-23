@@ -1,13 +1,12 @@
-
 import numpy as np
-
+import pandas as pd
+from sklearn.preprocessing import StandardScaler
 
 class Preprocessor:
     def __init__(self, df):
         self.df = df.copy()
 
     def drop_id(self):
-
         if 'CustomerID' in self.df.columns:
             self.df = self.df.drop(columns=['CustomerID'])
 
